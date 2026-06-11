@@ -1,1 +1,0 @@
-// TITHKAR | تذكار — Admin JavaScript
